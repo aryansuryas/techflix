@@ -1,4 +1,4 @@
-# techflixdsu
+# techflix dsu
 
 A Smart Mobility Intelligence System built with Next.js, featuring real-time route analysis, interactive maps, and premium animations.
 
